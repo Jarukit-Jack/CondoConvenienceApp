@@ -1,7 +1,7 @@
 # CondoConvenienceApp
 ![image alt](https://github.com/Jarukit-Jack/CondoConvenienceApp/blob/15332a96d84a8bb4e1769c849b6591daf17acb08/Condo_convenience_Management_System_2.png)
 ## 🚀Description
-CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351-65) at Kasetsart University.
+CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351) at Kasetsart University.
 
 ## Table of Contents
 - [Introduction](#introduction)
