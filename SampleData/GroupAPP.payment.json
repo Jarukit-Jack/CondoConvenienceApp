@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67c85f958afca9cc470f6aed"
+  },
+  "id": "1003",
+  "electricity": "400",
+  "water": "8",
+  "rent": "7500",
+  "date": "2025-03-15",
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "67c85f978afca9cc470f6aee"
+  },
+  "id": "1004",
+  "electricity": "150",
+  "water": "5",
+  "rent": "5500",
+  "date": "2025-03-15",
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "67c85f9b8afca9cc470f6aef"
+  },
+  "id": "1008",
+  "electricity": "500",
+  "water": "8",
+  "rent": "7500",
+  "date": "2025-03-15",
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "67e6a721314253356855a62d"
+  },
+  "id": "1002",
+  "electricity": 40,
+  "water": 6,
+  "rent": "5500",
+  "date": "2025-04-05",
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "67e70748314253356855ae98"
+  },
+  "id": "1001",
+  "electricity": 40,
+  "water": 7,
+  "rent": "5500",
+  "date": "2025-04-30",
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "67e71294314253356855afe2"
+  },
+  "id": "1001",
+  "electricity": 15,
+  "water": 5,
+  "rent": "4500",
+  "date": "2025-04-30",
+  "status": "Paid"
+}]
