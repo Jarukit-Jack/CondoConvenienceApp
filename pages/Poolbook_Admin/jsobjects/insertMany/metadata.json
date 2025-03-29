@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c45521e836f11c3fa21a66_3c1fee21-a438-47d1-9228-f78d73fb4d7d",
+  "id": "Poolbook_Admin_insertMany",
+  "unpublishedCollection": {
+    "name": "insertMany",
+    "pageId": "Poolbook_Admin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

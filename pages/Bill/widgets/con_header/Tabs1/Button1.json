@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 38,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "v33k6v9clv",
+  "leftColumn": 44,
+  "minWidth": 120,
+  "mobileBottomRow": 56,
+  "mobileLeftColumn": 41,
+  "mobileRightColumn": 57,
+  "mobileTopRow": 52,
+  "needsErrorInfo": false,
+  "onClick": "{{showModal(Payment_modal.name).then(() => {}).catch(() => {\n  showAlert('Payment Invalid', 'info');\n});\nstoreValue('paid', appsmith.store.p);}}",
+  "originalBottomRow": 49,
+  "originalTopRow": 44,
+  "parentColumnSpace": 5.90625,
+  "parentId": "lq48rsk5gu",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 62,
+  "text": "Pay",
+  "topRow": 33,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "ncsht63p3m",
+  "widgetName": "Button1"
+}

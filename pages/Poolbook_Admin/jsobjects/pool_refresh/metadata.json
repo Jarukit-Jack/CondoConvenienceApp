@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c45521e836f11c3fa21a66_8ecf8916-5807-4496-b16e-e38479dcb8eb",
+  "id": "Poolbook_Admin_pool_refresh",
+  "unpublishedCollection": {
+    "name": "pool_refresh",
+    "pageId": "Poolbook_Admin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

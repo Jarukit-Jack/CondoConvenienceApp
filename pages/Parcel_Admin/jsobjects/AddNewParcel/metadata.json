@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c45521e836f11c3fa21a66_34a22963-6840-4452-b93d-6f60e9f6fd8b",
+  "id": "Parcel_Admin_AddNewParcel",
+  "unpublishedCollection": {
+    "name": "AddNewParcel",
+    "pageId": "Parcel_Admin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

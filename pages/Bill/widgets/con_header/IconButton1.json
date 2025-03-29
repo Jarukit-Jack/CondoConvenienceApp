@@ -1,0 +1,45 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 58,
+  "boxShadow": "none",
+  "buttonColor": "#e0dede",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "chat",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "exf3nequvo",
+  "leftColumn": 54,
+  "minWidth": 50,
+  "mobileBottomRow": 79,
+  "mobileLeftColumn": 45,
+  "mobileRightColumn": 49,
+  "mobileTopRow": 75,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('ContactAdmin', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 58,
+  "originalTopRow": 54,
+  "parentColumnSpace": 6.21875,
+  "parentId": "4yf31s3yha",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 56,
+  "tooltip": "admin",
+  "topRow": 54,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "irz51777p8",
+  "widgetName": "IconButton1"
+}

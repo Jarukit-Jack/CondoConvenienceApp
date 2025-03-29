@@ -1,0 +1,62 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 29,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
+  "displayName": "Button",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
+  "isDefaultClickDisabled": true,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "e4o0pz3237",
+  "leftColumn": 21,
+  "minWidth": 120,
+  "mobileBottomRow": 37,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 33,
+  "onClick": "{{ \n  check_user_login.run((data) => {\n    if (data.length > 0) {\n\t\t\tstoreValue(\"user_id\", data[0]._id);\n// Fetch full user info after login\n      get_user_info.run(() => {\n        storeValue(\"user_info\", get_user_info.data); // Store all user info globally\n        navigateTo(\"Home\");\n      }, (error) => {\n        showAlert(\"เกิดข้อผิดพลาดในการโหลดข้อมูลผู้ใช้: \" + error.message, \"error\");\n      });\n    } else {\n      showAlert(\"อีเมลหรือรหัสผ่านไม่ถูกต้อง\", \"error\");\n    }\n  }, (error) => {\n    showAlert(\"เกิดข้อผิดพลาด: \" + error.message, \"error\");\n  });\n}}",
+  "originalBottomRow": 37,
+  "originalTopRow": 33,
+  "parentId": "o1bz7dfnje",
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": true,
+  "responsiveBehavior": "hug",
+  "rightColumn": 43,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "tags": [
+    "Buttons"
+  ],
+  "text": "Login",
+  "topRow": 25,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "od8jh3dg8u",
+  "widgetName": "Button1"
+}

@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 59,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "dp2b1ntp1d",
+  "leftColumn": 6,
+  "minWidth": 120,
+  "mobileBottomRow": 48,
+  "mobileLeftColumn": 13,
+  "mobileRightColumn": 29,
+  "mobileTopRow": 44,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Fitbook2', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 59,
+  "originalTopRow": 55,
+  "parentColumnSpace": 6.103515625,
+  "parentId": "193hhzva1x",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 60,
+  "text": "Accept",
+  "topRow": 55,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "7mrf1ffbjb",
+  "widgetName": "Button1"
+}

@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 34,
+  "boxShadow": "none",
+  "defaultImage": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://miraclegrandhotel.com/wp-content/uploads/sites/81/2020/02/Fitness_1.jpg",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "3gnrup237i",
+  "leftColumn": 6,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 24,
+  "mobileLeftColumn": 25,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 12,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 34,
+  "originalTopRow": 17,
+  "parentColumnSpace": 6.103515625,
+  "parentId": "193hhzva1x",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 60,
+  "topRow": 17,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "y6vd2pzctw",
+  "widgetName": "Image1"
+}

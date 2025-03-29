@@ -1,0 +1,48 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 54,
+  "displayName": "Text",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "Poppins",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "nf5ngvo9vw",
+  "leftColumn": 6,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "originalBottomRow": 52,
+  "originalTopRow": 35,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.5,
+  "parentId": "193hhzva1x",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 59,
+  "searchTags": [
+    "typography",
+    "paragraph",
+    "label"
+  ],
+  "shouldTruncate": false,
+  "text": "1. Fitness is for condo residents only; outsiders are not allowed.  \n2. A maximum of two people may use the fitness at the same time.  \n3. Only workout clothes are permitted.  \n4. Fitness must be booked online; walk-ins are not allowed. \n5.Bookings can only be made up to 3 days in advance.",
+  "textAlign": "LEFT",
+  "textColor": "#9BA0B0",
+  "topRow": 34,
+  "truncateButtonColor": "#FFC13D",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "hzixoa66do",
+  "widgetName": "txt_subTitle"
+}

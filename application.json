@@ -1,0 +1,83 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "MOBILE"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFEFDB",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "Home",
+      "isDefault": false
+    },
+    {
+      "id": "Poolbook1",
+      "isDefault": false
+    },
+    {
+      "id": "Poolbook2",
+      "isDefault": false
+    },
+    {
+      "id": "FitBook1",
+      "isDefault": false
+    },
+    {
+      "id": "Bill",
+      "isDefault": false
+    },
+    {
+      "id": "Repair",
+      "isDefault": false
+    },
+    {
+      "id": "ContactAdmin",
+      "isDefault": false
+    },
+    {
+      "id": "Parcel",
+      "isDefault": false
+    },
+    {
+      "id": "Fitbook2",
+      "isDefault": false
+    },
+    {
+      "id": "Parcel_Admin",
+      "isDefault": false
+    },
+    {
+      "id": "Repair_Admin",
+      "isDefault": false
+    },
+    {
+      "id": "Bill_Admin",
+      "isDefault": false
+    },
+    {
+      "id": "Statistic",
+      "isDefault": false
+    },
+    {
+      "id": "Poolbook_Admin",
+      "isDefault": false
+    },
+    {
+      "id": "Fitbook_Admin",
+      "isDefault": false
+    },
+    {
+      "id": "Home_Admin",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 8,
+  "boxShadow": "none",
+  "buttonColor": "#e0dede",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "trash",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "je624ljkhd",
+  "leftColumn": 56,
+  "minWidth": 50,
+  "mobileBottomRow": 8,
+  "mobileLeftColumn": 53,
+  "mobileRightColumn": 57,
+  "mobileTopRow": 4,
+  "needsErrorInfo": false,
+  "onClick": "{{storeValue('booking_key', get_future_book.data[currentIndex]).then(() => {\n  trash_button.SubmitonClick('booking_key');\n});\nstoreValue('tagTab', 'History');}}",
+  "parentColumnSpace": 5.37646484375,
+  "parentId": "xa4hj44wp3",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 60,
+  "topRow": 4,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "9zxzceznyu",
+  "widgetName": "IconButton4"
+}

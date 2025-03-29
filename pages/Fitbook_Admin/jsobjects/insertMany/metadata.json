@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c45521e836f11c3fa21a66_56c77d79-c8b5-4546-ae7f-9fcedbec2a34",
+  "id": "Fitbook_Admin_insertMany",
+  "unpublishedCollection": {
+    "name": "insertMany",
+    "pageId": "Fitbook_Admin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

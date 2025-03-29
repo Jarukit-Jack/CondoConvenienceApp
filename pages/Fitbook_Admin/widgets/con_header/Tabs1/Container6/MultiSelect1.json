@@ -1,0 +1,67 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "allowSelectAll": false,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 52,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onDropdownClose"
+    }
+  ],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "13nujeoafb",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Select time to add \n(maximum 8 hours per day)",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 52,
+  "mobileLeftColumn": 8,
+  "mobileRightColumn": 28,
+  "mobileTopRow": 45,
+  "needsErrorInfo": false,
+  "onDropdownClose": "{{storeValue('multi', MultiSelect1.selectedOptionValues);}}",
+  "optionLabel": "label",
+  "optionValue": "value",
+  "originalBottomRow": 51,
+  "originalTopRow": 44,
+  "parentColumnSpace": 5.90625,
+  "parentId": "3mb8krrh73",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option(s)",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\"label\": \"08:00 - 09:00\", \"value\": \"08:00 - 09:00\"},\n  {\"label\": \"09:00 - 10:00\", \"value\": \"09:00 - 10:00\"},\n  {\"label\": \"10:00 - 11:00\", \"value\": \"10:00 - 11:00\"},\n  {\"label\": \"11:00 - 12:00\", \"value\": \"11:00 - 12:00\"},\n  {\"label\": \"12:00 - 13:00\", \"value\": \"12:00 - 13:00\"},\n  {\"label\": \"13:00 - 14:00\", \"value\": \"13:00 - 14:00\"},\n  {\"label\": \"14:00 - 15:00\", \"value\": \"14:00 - 15:00\"},\n  {\"label\": \"15:00 - 16:00\", \"value\": \"15:00 - 16:00\"},\n  {\"label\": \"16:00 - 17:00\", \"value\": \"16:00 - 17:00\"},\n  {\"label\": \"18:00 - 19:00\", \"value\": \"18:00 - 19:00\"},\n  {\"label\": \"20:00 - 21:00\", \"value\": \"20:00 - 21:00\"},\n  {\"label\": \"21:00 - 22:00\", \"value\": \"21:00 - 22:00\"},\n  {\"label\": \"22:00 - 23:00\", \"value\": \"22:00 - 23:00\"},\n  {\"label\": \"23:00 - 00:00\", \"value\": \"23:00 - 00:00\"}\n]\n",
+  "topRow": 45,
+  "type": "MULTI_SELECT_WIDGET_V2",
+  "version": 1,
+  "widgetId": "l9fns69e6j",
+  "widgetName": "MultiSelect1"
+}

@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 56,
+  "displayName": "Text",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "Poppins",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "nf5ngvo9vw",
+  "leftColumn": 6,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "originalBottomRow": 56,
+  "originalTopRow": 38,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.5,
+  "parentId": "193hhzva1x",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 59,
+  "searchTags": [
+    "typography",
+    "paragraph",
+    "label"
+  ],
+  "shouldScrollContents": true,
+  "shouldTruncate": false,
+  "text": "    1. The pool is for condo residents only; outsiders are not allowed.  \n\t2. A maximum of only one person may use the pool at the same time.  \n\t3. Only suitable swimsuits are permitted.  \n\t4. Pool use must be booked online; walk-ins are not allowed.\n\t5. You may book the pool up to two days in advance  with reservations resetting daily at 2 AM to ensure fair access for all residents.",
+  "textAlign": "LEFT",
+  "textColor": "#9BA0B0",
+  "topRow": 38,
+  "truncateButtonColor": "#FFC13D",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "hzixoa66do",
+  "widgetName": "txt_subTitle"
+}

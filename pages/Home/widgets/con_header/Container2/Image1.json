@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "defaultImage": "https://imgs.search.brave.com/oZqx12MYnbF--pH6VIcJnbFfBk5ZB-_fI0mB5gc7dTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvNS9Qcm9m/aWxlLVBORy1JbWFn/ZXMucG5n",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://i.postimg.cc/SxTjDwfj/white-user-icon-vector-42797441-removebg-preview.png",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "3gnrup237i",
+  "leftColumn": 1,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 22,
+  "mobileLeftColumn": 3,
+  "mobileRightColumn": 15,
+  "mobileTopRow": 10,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 6.42431640625,
+  "parentId": "9tq9avqsmk",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 19,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "g018bbuer2",
+  "widgetName": "Image1"
+}

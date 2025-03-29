@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c45521e836f11c3fa21a66_e222b109-3ef7-4aba-8c6b-5ad27d59163b",
+  "id": "Parcel_Admin_roomID",
+  "unpublishedCollection": {
+    "name": "roomID",
+    "pageId": "Parcel_Admin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

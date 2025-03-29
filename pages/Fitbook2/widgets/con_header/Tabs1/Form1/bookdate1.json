@@ -1,0 +1,78 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 12,
+  "boxShadow": "none",
+  "closeOnSelection": true,
+  "dateFormat": "YYYY-MM-DD",
+  "datePickerType": "DATE_PICKER",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "minDate"
+    },
+    {
+      "key": "maxDate"
+    },
+    {
+      "key": "labelTextColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "minDate"
+    },
+    {
+      "key": "maxDate"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onDateSelected"
+    }
+  ],
+  "firstDayOfWeek": "0",
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": true,
+  "isVisible": true,
+  "key": "yrwwhdj0sl",
+  "label": "Date",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelStyle": "BOLD",
+  "labelTextColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "labelTextSize": "1rem",
+  "labelWidth": 5,
+  "leftColumn": 2,
+  "maxDate": "{{ moment().add(2, \"days\").format(\"YYYY-MM-DD\") }}\n",
+  "maxDynamicHeight": 9000,
+  "minDate": "{{ moment().format(\"YYYY-MM-DD\") }}",
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 13,
+  "mobileLeftColumn": 6,
+  "mobileRightColumn": 26,
+  "mobileTopRow": 6,
+  "needsErrorInfo": false,
+  "onBlur": "{{}}",
+  "onDateSelected": "{{get_pool_time.run()}}",
+  "onFocus": "{{}}",
+  "parentColumnSpace": 5.224609375,
+  "parentId": "vum86y6nbt",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 50,
+  "shortcuts": false,
+  "timePrecision": "None",
+  "topRow": 5,
+  "type": "DATE_PICKER_WIDGET2",
+  "version": 2,
+  "widgetId": "g15gvfwh67",
+  "widgetName": "bookdate1"
+}

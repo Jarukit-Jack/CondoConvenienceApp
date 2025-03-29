@@ -1,0 +1,79 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "configureMenuItems": {
+    "config": {
+      "id": "config",
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Menu Item"
+    },
+    "id": "config",
+    "label": "Configure menu items"
+  },
+  "dynamicBindingPathList": [
+    {
+      "key": "menuColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "menuItems.menuItem1.backgroundColor"
+    },
+    {
+      "key": "menuItems.menuItem1.textColor"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "menuItems.menuItem1.onClick"
+    }
+  ],
+  "iconAlign": "left",
+  "iconName": "log-out",
+  "isCompact": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "pigcs1n2pk",
+  "label": "",
+  "leftColumn": 49,
+  "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+  "menuItems": {
+    "menuItem1": {
+      "backgroundColor": "{{appsmith.theme.colors.backgroundColor}}",
+      "iconAlign": "left",
+      "iconColor": "#000d3d",
+      "id": "menuItem1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Logout",
+      "onClick": "{{showModal(Modal1.name);}}",
+      "textColor": "{{appsmith.theme.colors.primaryColor}}",
+      "widgetId": ""
+    }
+  },
+  "menuItemsSource": "STATIC",
+  "menuVariant": "SECONDARY",
+  "mobileBottomRow": 41,
+  "mobileLeftColumn": 15,
+  "mobileRightColumn": 31,
+  "mobileTopRow": 37,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 6.42431640625,
+  "parentId": "madcrc5xpy",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "renderMode": "CANVAS",
+  "rightColumn": 58,
+  "sourceData": [],
+  "topRow": 4,
+  "type": "MENU_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "favjl41jhm",
+  "widgetName": "MenuButton2"
+}
