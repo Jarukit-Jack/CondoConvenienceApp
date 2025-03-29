@@ -63,7 +63,7 @@ The `SampleData` directory includes sample JSON data files for MongoDB Atlas, or
 2. User Login :User Roles
 - Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
 - Administrators: Log in with admin credentials to oversee all operations and manage user requests.
-4. There are demonstration video provided on [links](#links)
+3. There are demonstration video provided on [links](#links)
 
 ## Credits
 This project is developed by:
