@@ -6,8 +6,8 @@ CondoConvenienceApp is a management system developed for condominium facilities,
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [File description](#filedescription)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
@@ -25,33 +25,21 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **Parcel Tracking:** Receive notifications and manage parcel deliveries.
 - **User Management:** Differentiate access levels between residents and administrators.
 
-## Usage
-After installation, access the application through the Appsmith platform:
+## Filedescription
+- **Amenity Booking:** Schedule reservations for facilities like the pool and fitness center.
+- **Maintenance Requests:** Report and track the status of maintenance issues within the condominium.
+- **Utility Billing:** View and pay utility bills, including electricity, water, and rent.
+- **Parcel Tracking:** Receive notifications and manage parcel deliveries.
+- **User Management:** Differentiate access levels between residents and administrators.
 
-Launch the App: Open the application using the provided link in the repository's documentation.
+## Usage
+1. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
+2. User Login : เข้าใช้งาน Role
+3. สาธิตการใช้งานแอปอยู่ในวีดีโอที่แนบไว้(นาทีที่ 6 เป็นต้นไป)
 
 User Roles:
-
 Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
-
 Administrators: Log in with admin credentials to oversee all operations and manage user requests.
-
-## Examples
-Booking an Amenity
-Log in as a resident.
-
-Navigate to the booking section.
-
-Select the desired facility (e.g., pool or gym), choose an available time slot, and confirm your reservation.
-
-Reporting a Maintenance Issue
-Log in as a resident.
-
-Go to the maintenance request section.
-
-Describe the issue, upload relevant images, and submit the request.
-
-Track the status of your request through the dashboard.
 
 ## Credits
 This project is developed by:
