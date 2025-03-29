@@ -1,0 +1,495 @@
+[{
+  "_id": "1001",
+  "room_no": "101",
+  "type": "big",
+  "owner": {
+    "owner_id": "O1",
+    "name": "John Doe",
+    "phone": "0123456789",
+    "email": "johndoe@email.com",
+    "password": "101"
+  },
+  "tenant": {
+    "tenant_id": "T1",
+    "name": "Alice",
+    "start_date": "2025-03-01"
+  }
+},
+{
+  "_id": "1002",
+  "room_no": "102",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O2",
+    "name": "Jane Smith",
+    "phone": "0987654321",
+    "email": "janesmith@email.com",
+    "password": "102"
+  },
+  "tenant": {
+    "tenant_id": "T2",
+    "name": "Bob",
+    "start_date": "2025-04-01"
+  }
+},
+{
+  "_id": "1003",
+  "room_no": "103",
+  "type": "small",
+  "owner": {
+    "owner_id": "O3",
+    "name": "Michael Brown",
+    "phone": "0555555555",
+    "email": "michaelbrown@email.com",
+    "password": "103"
+  },
+  "tenant": {
+    "tenant_id": "T3",
+    "name": "Charlie",
+    "start_date": "2025-05-01"
+  }
+},
+{
+  "_id": "1004",
+  "room_no": "104",
+  "type": "big",
+  "owner": {
+    "owner_id": "O4",
+    "name": "Emily Davis",
+    "phone": "0777777777",
+    "email": "emilydavis@email.com",
+    "password": "104"
+  },
+  "tenant": {
+    "tenant_id": "T4",
+    "name": "David",
+    "start_date": "2025-06-01"
+  }
+},
+{
+  "_id": "1005",
+  "room_no": "105",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O5",
+    "name": "Sarah Wilson",
+    "phone": "0666666666",
+    "email": "sarahwilson@email.com",
+    "password": "105"
+  },
+  "tenant": {
+    "tenant_id": "T5",
+    "name": "Eve",
+    "start_date": "2025-07-01"
+  }
+},
+{
+  "_id": "1006",
+  "room_no": "106",
+  "type": "small",
+  "owner": {
+    "owner_id": "O6",
+    "name": "Nancy",
+    "phone": "0812345678",
+    "email": "Nancy@email.com",
+    "password": "106"
+  },
+  "tenant": {
+    "tenant_id": "T6",
+    "name": "Nancy",
+    "start_date": "2025-03-01"
+  }
+},
+{
+  "_id": "1007",
+  "room_no": "107",
+  "type": "big",
+  "owner": {
+    "owner_id": "O7",
+    "name": "Daniel White",
+    "phone": "0444444444",
+    "email": "danielwhite@email.com",
+    "password": "107"
+  },
+  "tenant": {
+    "tenant_id": "T7",
+    "name": "Grace",
+    "start_date": "2025-09-01"
+  }
+},
+{
+  "_id": "1008",
+  "room_no": "108",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O8",
+    "name": "Olivia Green",
+    "phone": "0222222222",
+    "email": "oliviagreen@email.com",
+    "password": "108"
+  },
+  "tenant": {
+    "tenant_id": "T8",
+    "name": "Henry",
+    "start_date": "2025-10-01"
+  }
+},
+{
+  "_id": "1009",
+  "room_no": "109",
+  "type": "small",
+  "owner": {
+    "owner_id": "O9",
+    "name": "Ethan Brown",
+    "phone": "0111111111",
+    "email": "ethanbrown@email.com",
+    "password": "109"
+  },
+  "tenant": {
+    "tenant_id": "T9",
+    "name": "Isabella",
+    "start_date": "2025-11-01"
+  }
+},
+{
+  "_id": "1010",
+  "room_no": "110",
+  "type": "big",
+  "owner": {
+    "owner_id": "O10",
+    "name": "Sophia Taylor",
+    "phone": "0999999999",
+    "email": "sophiataylor@email.com",
+    "password": "110"
+  },
+  "tenant": {
+    "tenant_id": "T10",
+    "name": "Liam",
+    "start_date": "2025-12-01"
+  }
+},
+{
+  "_id": "1011",
+  "room_no": "111",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O2",
+    "name": "Jorin",
+    "phone": "0987654321",
+    "email": "jorin@email.com",
+    "password": "102"
+  },
+  "tenant": {
+    "tenant_id": "T2",
+    "name": "BobBob",
+    "start_date": "2025-03-01"
+  }
+},
+{
+  "_id": "1012",
+  "room_no": "112",
+  "type": "small",
+  "owner": {
+    "owner_id": "O3",
+    "name": "Aheye",
+    "phone": "0111222333",
+    "email": "aheye@email.com",
+    "password": "103"
+  },
+  "tenant": {
+    "tenant_id": "T3",
+    "name": "Hanna",
+    "start_date": "2025-02-01"
+  }
+},
+{
+  "_id": "1015",
+  "room_no": "115",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O15",
+    "name": "Emma Wilson",
+    "phone": "0123456789",
+    "email": "emmawilson@email.com",
+    "password": "115"
+  },
+  "tenant": {
+    "tenant_id": "T15",
+    "name": "Noah",
+    "start_date": "2026-01-01"
+  }
+},
+{
+  "_id": "1016",
+  "room_no": "116",
+  "type": "small",
+  "owner": {
+    "owner_id": "O16",
+    "name": "James Brown",
+    "phone": "0987654321",
+    "email": "jamesbrown@email.com",
+    "password": "116"
+  },
+  "tenant": {
+    "tenant_id": "T16",
+    "name": "James Brown",
+    "start_date": "2026-02-01"
+  }
+},
+{
+  "_id": "1017",
+  "room_no": "117",
+  "type": "big",
+  "owner": {
+    "owner_id": "O17",
+    "name": "Mia Johnson",
+    "phone": "0555555555",
+    "email": "miajohnson@email.com",
+    "password": "117"
+  },
+  "tenant": {
+    "tenant_id": "T17",
+    "name": "Lucas",
+    "start_date": "2026-03-01"
+  }
+},
+{
+  "_id": "1018",
+  "room_no": "118",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O18",
+    "name": "Benjamin Davis",
+    "phone": "0777777777",
+    "email": "benjamindavis@email.com",
+    "password": "118"
+  },
+  "tenant": {
+    "tenant_id": "T18",
+    "name": "Amelia",
+    "start_date": "2026-04-01"
+  }
+},
+{
+  "_id": "1019",
+  "room_no": "119",
+  "type": "small",
+  "owner": {
+    "owner_id": "O19",
+    "name": "Charlotte Wilson",
+    "phone": "0666666666",
+    "email": "charlottewilson@email.com",
+    "password": "119"
+  },
+  "tenant": {
+    "tenant_id": "T19",
+    "name": "Ethan",
+    "start_date": "2026-05-01"
+  }
+},
+{
+  "_id": "1020",
+  "room_no": "120",
+  "type": "big",
+  "owner": {
+    "owner_id": "O20",
+    "name": "William Taylor",
+    "phone": "0111111111",
+    "email": "williamtaylor@email.com",
+    "password": "120"
+  },
+  "tenant": {
+    "tenant_id": "T20",
+    "name": "Sophia",
+    "start_date": "2026-06-01"
+  }
+},
+{
+  "_id": "1021",
+  "room_no": "121",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O21",
+    "name": "Alexander Harris",
+    "phone": "0123456789",
+    "email": "alexanderharris@email.com",
+    "password": "121"
+  },
+  "tenant": {
+    "tenant_id": "T21",
+    "name": "Mia",
+    "start_date": "2026-07-01"
+  }
+},
+{
+  "_id": "1022",
+  "room_no": "122",
+  "type": "small",
+  "owner": {
+    "owner_id": "O22",
+    "name": "Ella Clark",
+    "phone": "0987654321",
+    "email": "ellaclark@email.com",
+    "password": "122"
+  },
+  "tenant": {
+    "tenant_id": "T22",
+    "name": "Noah",
+    "start_date": "2026-08-01"
+  }
+},
+{
+  "_id": "1023",
+  "room_no": "123",
+  "type": "big",
+  "owner": {
+    "owner_id": "O23",
+    "name": "Liam Lewis",
+    "phone": "0555555555",
+    "email": "liamlewis@email.com",
+    "password": "123"
+  },
+  "tenant": {
+    "tenant_id": "T23",
+    "name": "Olivia",
+    "start_date": "2026-09-01",
+    "end_date": "2026-12-01",
+    "rent_status": "paid"
+  }
+},
+{
+  "_id": "1024",
+  "room_no": "124",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O24",
+    "name": "Ava Walker",
+    "phone": "0777777777",
+    "email": "avawalker@email.com",
+    "password": "124"
+  },
+  "tenant": {
+    "tenant_id": "T24",
+    "name": "Lucas",
+    "start_date": "2026-10-01"
+  }
+},
+{
+  "_id": "1025",
+  "room_no": "125",
+  "type": "small",
+  "owner": {
+    "owner_id": "O25",
+    "name": "Mason Hall",
+    "phone": "0666666666",
+    "email": "masonhall@email.com",
+    "password": "125"
+  },
+  "tenant": {
+    "tenant_id": "T25",
+    "name": "Mason Hall",
+    "start_date": "2026-11-01"
+  }
+},
+{
+  "_id": "1026",
+  "room_no": "126",
+  "type": "big",
+  "owner": {
+    "owner_id": "O26",
+    "name": "Harper Young",
+    "phone": "0111111111",
+    "email": "harperyoung@email.com",
+    "password": "126"
+  },
+  "tenant": {
+    "tenant_id": "T26",
+    "name": "Ethan",
+    "start_date": "2026-12-01"
+  }
+},
+{
+  "_id": "1027",
+  "room_no": "127",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O27",
+    "name": "Evelyn Hernandez",
+    "phone": "0222222222",
+    "email": "evelynhernandez@email.com",
+    "password": "127"
+  },
+  "tenant": {
+    "tenant_id": "T27",
+    "name": "Liam",
+    "start_date": "2027-01-01"
+  }
+},
+{
+  "_id": "1028",
+  "room_no": "128",
+  "type": "small",
+  "owner": {
+    "owner_id": "O28",
+    "name": "Logan King",
+    "phone": "0333333333",
+    "email": "loganking@email.com",
+    "password": "128"
+  },
+  "tenant": {
+    "tenant_id": "T28",
+    "name": "Sophia",
+    "start_date": "2027-02-01"
+  }
+},
+{
+  "_id": "1029",
+  "room_no": "129",
+  "type": "big",
+  "owner": {
+    "owner_id": "O29",
+    "name": "Aiden Wright",
+    "phone": "0444444444",
+    "email": "aidenwright@email.com",
+    "password": "129"
+  },
+  "tenant": {
+    "tenant_id": "T29",
+    "name": "Isabella",
+    "start_date": "2027-03-01"
+  }
+},
+{
+  "_id": "1030",
+  "room_no": "130",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O30",
+    "name": "Ella Lopez",
+    "phone": "0555555555",
+    "email": "ellalopez@email.com",
+    "password": "130"
+  },
+  "tenant": {
+    "tenant_id": "T30",
+    "name": "Mason",
+    "start_date": "2027-04-01"
+  }
+},
+{
+  "_id": "1014",
+  "room_no": "114",
+  "type": "medium",
+  "owner": {
+    "owner_id": "O13",
+    "name": "Jaiyok Kasem",
+    "phone": "0777777777",
+    "email": "kasem@email.com",
+    "password": "114"
+  },
+  "tenant": {
+    "tenant_id": "T14",
+    "name": "Mason",
+    "start_date": "2027-04-02"
+  }
+}]

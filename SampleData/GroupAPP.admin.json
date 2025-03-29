@@ -1,0 +1,27 @@
+[{
+  "_id": "A1",
+  "name": "Boonyapon Witch",
+  "email": "admin1@email.com",
+  "password": "111",
+  "role": "maid",
+  "phone": "0123",
+  "img": "https://media.istockphoto.com/id/607771622/photo/evil-witch-casting-a-curse.jpg?s=612x612&w=0&k=20&c=eANspjT79S5o6JMRwhPo8UpugYPZ0PUT1n6l_W0_rfM="
+},
+{
+  "_id": "A2",
+  "name": "Napatsanan Gollum",
+  "email": "admin2@email.com",
+  "password": "222",
+  "role": "CEO",
+  "phone": "1199",
+  "img": "https://img.goodfon.ru/wallpaper/big/b/cd/the-hobbit-an-unexpected-6724.webp"
+},
+{
+  "_id": "A3",
+  "name": "Jarukit Giraffe",
+  "email": "admin4@email.com",
+  "password": "444",
+  "role": "Zookeeper",
+  "phone": "191",
+  "img": "https://thumbs.dreamstime.com/b/scary-old-man-halloween-looking-you-close-up-wrinkled-face-frightening-horrible-death-dead-trick-treat-costume-haunted-160506005.jpg"
+}]

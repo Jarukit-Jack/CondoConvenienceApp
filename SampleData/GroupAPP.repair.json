@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67c85a218afca9cc470f6ada"
+  },
+  "id": "1001",
+  "issue": "Water",
+  "reported_date": "2025-07-03",
+  "status": "Complete",
+  "message": "ก๊อกน้ำมีปัญหา"
+},
+{
+  "_id": {
+    "$oid": "67c85a2a8afca9cc470f6adb"
+  },
+  "id": "1001",
+  "issue": "Electric",
+  "reported_date": "2025-07-03",
+  "status": "Complete",
+  "message": "หลอดไฟเสีย"
+},
+{
+  "_id": {
+    "$oid": "67c85a2f8afca9cc470f6adc"
+  },
+  "id": "1001",
+  "issue": "Water",
+  "reported_date": "2025-07-03",
+  "status": "Complete",
+  "message": "น้ำไม่ไหล"
+},
+{
+  "_id": {
+    "$oid": "67cc59a5ec5f79a075465d03"
+  },
+  "id": "1001",
+  "reported_date": "2025-03-11",
+  "issue": "Water",
+  "message": "leaky",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e6aac6314253356855a68d"
+  },
+  "id": "1001",
+  "reported_date": "2025-04-10",
+  "issue": "Electric",
+  "message": "ไฟไม่ติด",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e6ae0d314253356855a6e4"
+  },
+  "id": "1001",
+  "reported_date": "2025-04-09",
+  "issue": "Water",
+  "message": "ก๊อกน้ำแตก",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e6f85f314253356855acd3"
+  },
+  "id": "1001",
+  "reported_date": "2025-04-29",
+  "issue": "Electric",
+  "message": "ไฟดับ",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e6fba9314253356855ad37"
+  },
+  "id": "1001",
+  "reported_date": "2025-04-14",
+  "issue": "Electric",
+  "message": "ไฟดับ",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e70574314253356855ae5c"
+  },
+  "id": "1001",
+  "reported_date": "2025-05-21",
+  "issue": "Water",
+  "message": "น้ำไม่ไหล",
+  "status": "Complete"
+},
+{
+  "_id": {
+    "$oid": "67e7138e314253356855b001"
+  },
+  "id": "1001",
+  "reported_date": "2025-04-30",
+  "issue": "Water",
+  "message": "น้ำไม่ไหล",
+  "status": "Incomplete"
+}]

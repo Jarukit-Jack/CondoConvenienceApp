@@ -1,0 +1,934 @@
+[{
+  "_id": {
+    "$oid": "67c7c0ddfc4c16d5612387ef"
+  },
+  "date": "2025-03-07",
+  "time_stamp": "2025-03-07 10:42:59",
+  "id": "10026",
+  "status": "booked",
+  "time_slot": "10:00 - 11:00 "
+},
+{
+  "_id": {
+    "$oid": "67c7c0fffc4c16d5612387f3"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "time_slot": "11:00 - 12:00 ",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 10:50:30"
+},
+{
+  "_id": {
+    "$oid": "67c7c1a2fc4c16d5612387f5"
+  },
+  "date": "2025-03-07",
+  "time_stamp": "",
+  "id": "1002",
+  "status": "completed",
+  "time_slot": "12:00 - 13:00 "
+},
+{
+  "_id": {
+    "$oid": "67c7c4c4fc4c16d5612387f6"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 11:24:27"
+},
+{
+  "_id": {
+    "$oid": "67c853a7d268f3b185a61038"
+  },
+  "id": "1001",
+  "date": "2025-03-06",
+  "time_slot": "10:00 - 11:00 ",
+  "status": "completed",
+  "time_stamp": "2025-03-06 18:04:04"
+},
+{
+  "_id": {
+    "$oid": "67c919d5ec5f79a07546342d"
+  },
+  "date": "2025-03-06",
+  "time_stamp": "2025-03-06 14:51:55",
+  "id": "1002",
+  "status": "cancelled",
+  "time_slot": "09:00 - 10:00 "
+},
+{
+  "_id": {
+    "$oid": "67c93681ec5f79a075463763"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "status": "cancelled",
+  "time_slot": "11:00 - 12:00 ",
+  "time_stamp": "2025-03-07 10:39:23"
+},
+{
+  "_id": {
+    "$oid": "67c93697ec5f79a075463764"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "status": "cancelled",
+  "time_slot": "13:00 - 14:00 ",
+  "time_stamp": "2025-03-07 10:39:28"
+},
+{
+  "_id": {
+    "$oid": "67c9541cec5f79a07546380d"
+  },
+  "id": "1001",
+  "date": "2025-03-06",
+  "status": "cancelled",
+  "time_slot": "09:00 - 10:00 ",
+  "time_stamp": "2025-03-06 18:04:19"
+},
+{
+  "_id": {
+    "$oid": "67c98134ec5f79a075464568"
+  },
+  "id": "1001",
+  "date": "2025-03-06",
+  "time_slot": "09:00 - 10:00 ",
+  "status": "completed",
+  "time_stamp": "2025-03-06 22:16:39"
+},
+{
+  "_id": {
+    "$oid": "67c9bbdc1154000e189b66f8"
+  },
+  "id": "1001",
+  "date": "2025-03-05",
+  "time_slot": "09:00 - 10:00 ",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "67c9bbea1154000e189b66f9"
+  },
+  "id": "1001",
+  "date": "2025-03-05",
+  "time_slot": "10:00 - 11:00 ",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "67c9f538ec5f79a075464712"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "time_slot": "22:00 - 23:00",
+  "status": "booked",
+  "time_stamp": "2025-03-07 12:47:58"
+},
+{
+  "_id": {
+    "$oid": "67c9f57aec5f79a075464713"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "status": "cancelled",
+  "time_slot": "23:00 - 00:00",
+  "time_stamp": "2025-03-07 10:40:22"
+},
+{
+  "_id": {
+    "$oid": "67c9faeeec5f79a075464718"
+  },
+  "time_slot": "08:00 - 09:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67c9faefec5f79a075464719"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "status": "cancelled",
+  "time_slot": "09:00 - 10:00",
+  "time_stamp": "2025-03-07 10:39:17"
+},
+{
+  "_id": {
+    "$oid": "67ca6a67ec5f79a075464b65"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "09:00 - 10:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:22:34"
+},
+{
+  "_id": {
+    "$oid": "67ca6a72ec5f79a075464b6a"
+  },
+  "id": "1002",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "booked",
+  "time_stamp": "2025-03-07 11:30:29"
+},
+{
+  "_id": {
+    "$oid": "67ca6a74ec5f79a075464b6b"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:21:05"
+},
+{
+  "_id": {
+    "$oid": "67ca6aa8ec5f79a075464b74"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "23:00 - 00:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:24:05"
+},
+{
+  "_id": {
+    "$oid": "67ca7669ec5f79a075464cb6"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca82b6ec5f79a075464d06"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca82beec5f79a075464d07"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca82c0ec5f79a075464d08"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8300ec5f79a075464d0a"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca861bec5f79a075464d12"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca86c6ec5f79a075464d13"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca86c6ec5f79a075464d14"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca86c7ec5f79a075464d15"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca883fec5f79a075464d19"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "11:00 - 12:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca889bec5f79a075464d1b"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca88a2ec5f79a075464d1c"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca88a3ec5f79a075464d1d"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca88c8ec5f79a075464d1f"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca88cdec5f79a075464d20"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8935ec5f79a075464d22"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:22:12"
+},
+{
+  "_id": {
+    "$oid": "67ca893cec5f79a075464d23"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8946ec5f79a075464d24"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:35:19"
+},
+{
+  "_id": {
+    "$oid": "67ca89e0ec5f79a075464d27"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8b87ec5f79a075464d2d"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8c1eec5f79a075464d32"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8c86ec5f79a075464d3c"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8d0cec5f79a075464d45"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8d0dec5f79a075464d46"
+  },
+  "id": "",
+  "date": null,
+  "time_slot": null,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8d31ec5f79a075464d47"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca8d6bec5f79a075464d4a"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca909cec5f79a075464d6a"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca90c1ec5f79a075464d6c"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca90f9ec5f79a075464d6e"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "09:00 - 10:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca91eaec5f79a075464d76"
+  },
+  "id": "1001",
+  "date": "2025-03-07",
+  "time_slot": "20:00 - 21:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:35:12"
+},
+{
+  "_id": {
+    "$oid": "67ca91ebec5f79a075464d77"
+  },
+  "time_slot": "18:00 - 19:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca91f9ec5f79a075464d78"
+  },
+  "time_slot": "20:00 - 21:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca91faec5f79a075464d79"
+  },
+  "time_slot": "18:00 - 19:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca923fec5f79a075464d7a"
+  },
+  "time_slot": "20:00 - 21:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca923fec5f79a075464d7b"
+  },
+  "time_slot": "18:00 - 19:00",
+  "date": "2025-03-07",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca92d5ec5f79a075464d82"
+  },
+  "id": "1001",
+  "date": "2025-03-09",
+  "time_slot": "08:00 - 09:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:32:17"
+},
+{
+  "_id": {
+    "$oid": "67ca92d5ec5f79a075464d83"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "2025-03-09",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67ca9301ec5f79a075464d86"
+  },
+  "id": "1001",
+  "date": "2025-03-09",
+  "time_slot": "08:00 - 09:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-07 13:33:35"
+},
+{
+  "_id": {
+    "$oid": "67ca9361ec5f79a075464d87"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "23:00 - 00:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca9367ec5f79a075464d88"
+  },
+  "id": "",
+  "date": "2025-03-09",
+  "time_slot": "08:00 - 09:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca956eec5f79a075464d98"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "13:00 - 14:00 ",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67ca95abec5f79a075464d9c"
+  },
+  "id": "",
+  "date": "2025-03-07",
+  "time_slot": "20:00 - 21:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67cc5965ec5f79a075465cfb"
+  },
+  "id": "1001",
+  "date": "2025-03-08",
+  "time_slot": "08:00 - 09:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-08 21:51:39"
+},
+{
+  "_id": {
+    "$oid": "67cc5966ec5f79a075465cfc"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "2025-03-08",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67cc5967ec5f79a075465cfd"
+  },
+  "id": "1001",
+  "date": "2025-03-08",
+  "time_slot": "10:00 - 11:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-08 22:07:04"
+},
+{
+  "_id": {
+    "$oid": "67cc5968ec5f79a075465cfe"
+  },
+  "id": "1001",
+  "date": "2025-03-08",
+  "time_slot": "11:00 - 12:00",
+  "status": "cancelled",
+  "time_stamp": "2025-03-08 22:07:25"
+},
+{
+  "_id": {
+    "$oid": "67cc5984ec5f79a075465d01"
+  },
+  "id": "",
+  "date": "2025-03-08",
+  "time_slot": "08:00 - 09:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67cc5d1eec5f79a075465d14"
+  },
+  "id": "",
+  "date": "2025-03-08",
+  "time_slot": "10:00 - 11:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67cc5d43ec5f79a075465d16"
+  },
+  "id": "",
+  "date": "2025-03-08",
+  "time_slot": "11:00 - 12:00",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67e5174f3142533568557d46"
+  },
+  "id": "",
+  "time_slot": "14:00 - 15:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e517e33142533568557d60"
+  },
+  "id": "",
+  "time_slot": "21:00 - 22:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e518303142533568557d6d"
+  },
+  "id": "",
+  "time_slot": "13:00 - 14:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5185d3142533568557d7a"
+  },
+  "time_slot": "08:00 - 09:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5185e3142533568557d7b"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5185e3142533568557d7c"
+  },
+  "time_slot": "10:00 - 11:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5185f3142533568557d7d"
+  },
+  "time_slot": "11:00 - 12:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e518603142533568557d7e"
+  },
+  "time_slot": "12:00 - 13:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e518603142533568557d7f"
+  },
+  "time_slot": "13:00 - 14:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e518613142533568557d81"
+  },
+  "time_slot": "15:00 - 16:00",
+  "date": "2025-03-27",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e59066314253356855866e"
+  },
+  "id": "1001",
+  "date": "2025-03-28",
+  "time_slot": "10:00 - 11:00",
+  "status": "completed",
+  "time_stamp": "2025-03-28 00:55:38"
+},
+{
+  "_id": {
+    "$oid": "67e5908a3142533568558675"
+  },
+  "time_slot": "08:00 - 09:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908b3142533568558676"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908c3142533568558677"
+  },
+  "id": "1001",
+  "date": "2025-03-28",
+  "time_slot": "11:00 - 12:00",
+  "status": "completed",
+  "time_stamp": "2025-03-28 21:10:53"
+},
+{
+  "_id": {
+    "$oid": "67e5908c3142533568558678"
+  },
+  "time_slot": "12:00 - 13:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908d3142533568558679"
+  },
+  "time_slot": "14:00 - 15:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908d314253356855867a"
+  },
+  "time_slot": "15:00 - 16:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908e314253356855867b"
+  },
+  "time_slot": "16:00 - 17:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e5908e314253356855867c"
+  },
+  "time_slot": "18:00 - 19:00",
+  "date": "2025-03-28",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a41f314253356855a5e8"
+  },
+  "id": "1001",
+  "date": "2025-03-29",
+  "time_slot": "11:00 - 12:00",
+  "status": "booked",
+  "time_stamp": "2025-03-29 04:24:05"
+},
+{
+  "_id": {
+    "$oid": "67e6a43d314253356855a5ec"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "2025-03-29",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a43e314253356855a5ed"
+  },
+  "id": "1001",
+  "date": "2025-03-29",
+  "time_slot": "10:00 - 11:00",
+  "status": "booked",
+  "time_stamp": "2025-03-28 20:56:52"
+},
+{
+  "_id": {
+    "$oid": "67e6a7c3314253356855a63e"
+  },
+  "time_slot": "08:00 - 09:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a7c4314253356855a63f"
+  },
+  "time_slot": "09:00 - 10:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a7c5314253356855a640"
+  },
+  "time_slot": "10:00 - 11:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a9df314253356855a675"
+  },
+  "id": "1001",
+  "date": "2025-03-31",
+  "time_slot": "11:00 - 12:00",
+  "status": "booked",
+  "time_stamp": "2025-03-29 02:42:04"
+},
+{
+  "_id": {
+    "$oid": "67e6a9fe314253356855a677"
+  },
+  "time_slot": "12:00 - 13:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6a9ff314253356855a678"
+  },
+  "time_slot": "13:00 - 14:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6ad43314253356855a6ce"
+  },
+  "time_slot": "15:00 - 16:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6f700314253356855aca9"
+  },
+  "time_slot": "16:00 - 17:00",
+  "date": "",
+  "status": "available",
+  "time_stamp": ""
+},
+{
+  "_id": {
+    "$oid": "67e6f7dc314253356855acc4"
+  },
+  "id": "1001",
+  "date": "2025-03-31",
+  "time_slot": "14:00 - 15:00",
+  "status": "booked",
+  "time_stamp": "2025-03-29 02:28:03"
+}]
