@@ -62,15 +62,13 @@ Jarukit Phonwattananuwong : Student ID 6610505306
 
 Bunyaporn Boonthap : Student ID 6610505454
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Links
+## Links
 Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
-
-GitHub Repository: CondoConvenienceApp
 
 ##### You can visit the application using the below link
 
