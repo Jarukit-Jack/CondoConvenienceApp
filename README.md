@@ -3,7 +3,7 @@
 ## 🚀Description
 CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351-65) at Kasetsart University.
 
-## Table of Contents📍
+## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [File description](#folderandfiledescription)
@@ -26,8 +26,8 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **User Management:** Differentiate access levels between residents and administrators.
 
 ## Folderandfiledescription📁
-- Folder : 🌐**pages** => Each page contains queries, widgets and json file
-- Folder : 🛢️**SampleData** => sample data in json file for MongoDB Atlas
+- Folder : **pages** => Each page contains queries, widgets and json file
+- Folder : **SampleData** => sample data in json file for MongoDB Atlas
 
 ## Usage
 1. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
@@ -36,7 +36,7 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - Administrators: Log in with admin credentials to oversee all operations and manage user requests.
 4. There are demonstration video provided on [links](#links)
 
-## Credits💪😎
+## Credits
 This project is developed by:
 
 Naphatsanan Damaporn : Student ID 6610502102
@@ -45,11 +45,11 @@ Jarukit Phonwattananuwong : Student ID 6610505306
 
 Bunyaporn Boonthap : Student ID 6610505454
 
-## License⚠️
+## License⚠
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Links🔗
-🎬Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
+Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
 
