@@ -26,20 +26,18 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **User Management:** Differentiate access levels between residents and administrators.
 
 ## Filedescription
-- **Amenity Booking:** Schedule reservations for facilities like the pool and fitness center.
-- **Maintenance Requests:** Report and track the status of maintenance issues within the condominium.
-- **Utility Billing:** View and pay utility bills, including electricity, water, and rent.
-- **Parcel Tracking:** Receive notifications and manage parcel deliveries.
-- **User Management:** Differentiate access levels between residents and administrators.
+- Folder
+1. datasource : 
+2. jslibs
+3. pages
+
 
 ## Usage
 1. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
-2. User Login : เข้าใช้งาน Role
-3. สาธิตการใช้งานแอปอยู่ในวีดีโอที่แนบไว้(นาทีที่ 6 เป็นต้นไป)
-
-User Roles:
-Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
-Administrators: Log in with admin credentials to oversee all operations and manage user requests.
+2. User Login :User Roles
+- Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
+- Administrators: Log in with admin credentials to oversee all operations and manage user requests.
+4. There are demonstration video provided on [link](#link)
 
 ## Credits
 This project is developed by:
@@ -58,6 +56,6 @@ Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXE
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
 
-##### You can visit the application using the below link
+##### You can visit the application using the below 
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68/edit)
