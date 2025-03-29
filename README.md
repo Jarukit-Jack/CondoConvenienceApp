@@ -1,18 +1,18 @@
-# 🌇CondoConvenienceApp
+# CondoConvenienceApp
 
 ## 🚀Description
 CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351-65) at Kasetsart University.
 
-## 📍Table of Contents
+## Table of Contents📍
 - [Introduction](#introduction)
 - [Features](#features)
-- [File description](#filedescription)
+- [File description](#folderandfiledescription)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
 
-## 🌟Introduction🌟
+## Introduction
 The CondoConvenienceApp serves as a centralized platform for condominium management, providing both residents and administrators with efficient tools to handle daily tasks. The system supports two user roles:
 
 1. **Residents (User):** Can book amenities, report maintenance issues, view utility bills, and receive parcels.
@@ -25,7 +25,7 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **Parcel Tracking:** Receive notifications and manage parcel deliveries.
 - **User Management:** Differentiate access levels between residents and administrators.
 
-## 📁Filedescription📁 
+## Folderandfiledescription📁
 - Folder : 🌐**pages** => Each page contains queries, widgets and json file
 - Folder : 🛢️**SampleData** => sample data in json file for MongoDB Atlas
 
@@ -39,7 +39,7 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 ## Credits
 This project is developed by:
 
-Naphatsanan Dama Phorn : Student ID 6610502102
+Naphatsanan Damaporn : Student ID 6610502102
 
 Jarukit Phonwattananuwong : Student ID 6610505306
 
@@ -48,7 +48,7 @@ Bunyaporn Boonthap : Student ID 6610505454
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## </>Links
+## Links
 Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
