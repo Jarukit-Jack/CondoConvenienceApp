@@ -25,9 +25,38 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **Parcel Tracking:** Receive notifications and manage parcel deliveries.
 - **User Management:** Differentiate access levels between residents and administrators.
 
-## Folderandfiledescription📁
-- Folder : **pages** => Each page contains queries, widgets and json file
-- Folder : **SampleData** => sample data in json file for MongoDB Atlas
+## Folder and File Descriptions 📁
+
+### Pages Directory
+
+The `pages` directory contains subdirectories, each representing a specific page of the application. Each subdirectory includes queries, widgets, and a JSON file. Notably, subdirectories ending with `_Admin` denote admin pages.
+
+1. **Login**: Handles the login functionality.
+2. **Home**: Represents the homepage of the application.
+3. **Bill**: Manages payment processes.
+4. **Fitbook**: Pertains to fitness booking.
+   - `Fitbook1`: Contains the fitness booking agreement.
+   - `Fitbook2`: Implements the fitness booking system.
+5. **Poolbook**: Pertains to pool booking.
+   - `PoolBook1`: Contains the pool booking agreement.
+   - `PoolBook2`: Implements the pool booking system.
+6. **Repair**: Manages repair reporting.
+7. **ContactAdmin**: Provides administrator information.
+8. **Parcel**: Handles parcel-related functionalities.
+9. **Statistic**: Records statistics for electricity, water, and parcels.
+
+### SampleData Directory
+
+The `SampleData` directory includes sample JSON data files for MongoDB Atlas, organized into collections:
+
+- **`GroupAPP.admin.json`**: Contains admin data.
+- **`GroupAPP.condo.json`**: Includes owner and tenant room data.
+- **`GroupAPP.gymbooking.json`**: Stores gym booking data.
+- **`GroupAPP.parcel_report.json`**: Contains parcel data.
+- **`GroupAPP.payment.json`**: Includes bill and payment data.
+- **`GroupAPP.poolbooking.json`**: Stores pool booking data.
+- **`GroupAPP.repair.json`**: Contains repair data.
+
 
 ## Usage
 1. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
