@@ -59,8 +59,9 @@ The `SampleData` directory includes sample JSON data files for MongoDB Atlas, or
 
 
 ## Usage
-1. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
-2. User Login :User Roles
+1. Login to Appsmith first
+2. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
+3. User Login :User Roles
 - Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
 - Administrators: Log in with admin credentials to oversee all operations and manage user requests.
 3. There are demonstration video provided on [links](#links)
