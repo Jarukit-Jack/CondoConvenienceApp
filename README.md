@@ -68,11 +68,11 @@ The `SampleData` directory includes sample JSON data files for MongoDB Atlas, or
 ## Credits
 This project is developed by:
 
-Naphatsanan Damaporn : Student ID 6610502102
+1️⃣Napatsanan Damaporn : Student ID 6610502102
 
-Jarukit Phonwattananuwong : Student ID 6610505306
+2️⃣Jarukit Phonwattananuwong : Student ID 6610505306
 
-Bunyaporn Boonthap : Student ID 6610505454
+3️⃣Boonyapon Boontub : Student ID 6610505454
 
 ## License⚠
 This project is licensed under the MIT License - see the LICENSE file for details.
