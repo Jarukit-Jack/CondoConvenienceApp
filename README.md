@@ -50,7 +50,7 @@ The `pages` directory contains subdirectories, each representing a specific page
 8. **Parcel**: Handles parcel-related functionalities.
 9. **Statistic**: Records statistics for electricity, water, and parcels.
 
-### SampleData Directory
+### SampleDataMongoDB Directory
 
 The `SampleData` directory includes sample JSON data files for MongoDB Atlas, organized into collections:
 
