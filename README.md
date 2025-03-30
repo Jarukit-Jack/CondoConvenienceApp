@@ -26,7 +26,7 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **Parcel Tracking:** Receive notifications and manage parcel deliveries.
 - **User Management:** Differentiate access levels between residents and administrators.
 
-## Folder and File Descriptions 
+## Folder and File Descriptions📂 
 
 ### Pages Directory
 
