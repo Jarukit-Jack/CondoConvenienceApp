@@ -1,16 +1,17 @@
 # CondoConvenienceApp
 ![image alt](https://github.com/Jarukit-Jack/CondoConvenienceApp/blob/15332a96d84a8bb4e1769c849b6591daf17acb08/Condo_convenience_Management_System_2.png)
 ## 🚀Description
-CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351) at Kasetsart University.
+CondoConvenienceApp is a management system developed for condominium facilities, aiming to streamline operations such as utility billing, booking amenities, maintenance requests, and parcel tracking. This project was developed as part of the Database System course (01204351) at Kasetsart University. 
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [File description](#folderandfiledescription)
+- [Folder and File Descriptions](#folder-and-file-descriptions)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
+- [Tools](#tools)
 
 ## Introduction
 The CondoConvenienceApp serves as a centralized platform for condominium management, providing both residents and administrators with efficient tools to handle daily tasks. The system supports two user roles:
@@ -25,7 +26,7 @@ The CondoConvenienceApp serves as a centralized platform for condominium managem
 - **Parcel Tracking:** Receive notifications and manage parcel deliveries.
 - **User Management:** Differentiate access levels between residents and administrators.
 
-## Folder and File Descriptions 📁
+## Folder and File Descriptions 
 
 ### Pages Directory
 
@@ -82,6 +83,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
+
+## Tools
+- **MongoDB Atlas**: A fully-managed cloud database service for deploying, managing, and scaling MongoDB clusters. It serves as the backend database for storing application data securely and efficiently.
+- **Appsmith**: An open-source platform for building internal tools rapidly. Appsmith is utilized to create the application's user interface, enabling easy integration with MongoDB Atlas and other data sources.
 
 ##### You can visit the application using the below 
 
